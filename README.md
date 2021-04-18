@@ -1,5 +1,5 @@
 # UFOs
-##Overview of the analysis:
+## Overview of the analysis:
 We created a dynamic webpage that contains UFO sightings around the US. The webpage is dynamic because the user may filter the available data by the date of the sighting, the location or the shape of what was seen. Additionally, the user may read through the comments for each of the sightings. 
 
 ## Results:

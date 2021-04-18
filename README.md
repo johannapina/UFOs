@@ -5,9 +5,9 @@ We created a dynamic webpage that contains UFO sightings around the US. The webp
 ## Results:
 The user may filter the information by one or more criteria. The user can filter the data only by date or add any additional criteria such as city, state, country or the shape. The filters are case sensitive and words should be entered using lower case and an exact match to view the desired output. The filter boxes do contain sample text for the user to follow as a guide. Below is an image of the filter search boxes and a sample of the type of the data that is provided.
 
-![filter_search.png](Resources/filter_search.png)
+![filter_search.png](resources/filter_search.png)
 
-![data_sample_header.png](Resources/data_sample_header.png) 
+![data_sample_header.png](resources/data_sample_header.png) 
 
 ## Summary:
 The webpage has some limitations. As previously mentioned the filter is case sensitive and will only match to an exact match. Any mispellings or approximations will not provide a result. 
